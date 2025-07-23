@@ -1,16 +1,21 @@
-# zoom_app
+🎓 Learning Purpose
 
-A new Flutter project.
+This project was built as a part of my Flutter learning journey to:
 
-## Getting Started
+Understand third-party SDK integration like Jitsi Meet wrapper
 
-This project is a starting point for a Flutter application.
+Implement Google authentication and Firestore
 
-A few resources to get you started if this is your first Flutter project:
+Explore scalable Flutter architecture and UI patterns
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-> Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Google Sign-In authentication
+
+Create & join meetings via Jitsi Meet
+
+Store meeting info (name & timestamp) in Firestore
+
+Auto-filled meeting IDs & secure meeting creation
+
+Clean and modular Flutter codebase.
